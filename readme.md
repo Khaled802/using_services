@@ -152,3 +152,59 @@
         "language_spoken": "English, Arabic"
     }
  
+
+ =======================================
+
+ q = mansoura
+
+ {
+    "services": {
+        "Bank": [
+            {
+                "id": 1,
+                "name": "CIB",
+                "location": "mansoura",
+                "image": "https://www.cibeg.com/en",
+                "description": "it is a bank CIB ( Commercial International Bank) Mansoura",
+                "link": "https://www.cibeg.com/",
+                "telephone": "+202148923"
+            }
+        ],
+        "Restraunt": [
+            {
+                "id": 1,
+                "name": "Africa  Egypt  Ad-Daqahliyah Governorate  Mansoura  Mansoura Restaurants  Al Sabbahi Restaurants",
+                "location": "3 Suez Canal St. Beside Security Directorate, Mansoura Egypt",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/04/42/8f/al-sabbahi-restaurants.jpg",
+                "description": "Africa  Egypt  Ad-Daqahliyah Governorate  Mansoura  Mansoura Restaurants  Al Sabbahi Restaurants",
+                "telephone": "+20 2 33336819",
+                "website": "http://www.alsabbahi.com/",
+                "open_from": "11:00:00",
+                "open_to": "02:00:00",
+                "rating": 4,
+                "cuisines": "",
+                "features": "",
+                "meals": "",
+                "type_r": null,
+                "menu": null
+            },
+            {
+                "id": 2,
+                "name": "Mohamady Restauran",
+                "location": "Sekket Sandoub St. El Sheikh Hassanein Sq., Mansoura Egypt",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/04/42/8d/al-sabbahi-restaurants.jpg",
+                "description": "Mohamady Restauran Sekket Sandoub St. El Sheikh Hassanein Sq., Mansoura Egypt",
+                "telephone": "+20 2 33336819",
+                "website": "http://www.alsabbahi.com/",
+                "open_from": "11:00:00",
+                "open_to": "02:00:00",
+                "rating": 4,
+                "cuisines": "",
+                "features": "",
+                "meals": "",
+                "type_r": null,
+                "menu": "http://l.ead.me/baw9B6"
+            }
+        ]
+    }
+}
